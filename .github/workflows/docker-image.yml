@@ -49,6 +49,7 @@ jobs:
           username: hans
           script: |
             tar -xzf deploy.tar.gz
+            ls -laFh
           
           
 
